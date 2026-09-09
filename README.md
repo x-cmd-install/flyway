@@ -7,7 +7,7 @@ Flyway by Redgate • Database Migrations Made Easy.
 - **Latest release**: `flyway-13.5.0` (2026-09-03)
 - **Last commit**: 2026-09-03
 - **License**: Apache-2.0
-- **Stars**: 10078 · **Forks**: 1630 · **Open issues**: 3626 · **Contributors**: 124
+- **Stars**: 10079 · **Forks**: 1630 · **Open issues**: 3626 · **Contributors**: 124
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/flyway> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:37:20Z._
+_Last regenerated: 2026-09-09T18:26:35Z._
