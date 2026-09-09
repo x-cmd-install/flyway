@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 379281605,
       "digest": "sha256:d2af4b26d376e21b6f3a12a15275f88cf50fb8751732996e243a0a8cc8078f61",
-      "download_count": 29,
+      "download_count": 34,
       "created_at": "2026-09-03T09:46:07Z",
       "updated_at": "2026-09-03T09:46:17Z",
       "browser_download_url": "https://github.com/flyway/flyway/releases/download/flyway-13.5.0/flyway-commandline-13.5.0-linux-alpine-x64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 380146406,
       "digest": "sha256:9cc1d59840c0de73ce00a08749ab2f09256d6eec834e6794c5a8feb0fbc8b76d",
-      "download_count": 347,
+      "download_count": 432,
       "created_at": "2026-09-03T09:45:45Z",
       "updated_at": "2026-09-03T09:46:06Z",
       "browser_download_url": "https://github.com/flyway/flyway/releases/download/flyway-13.5.0/flyway-commandline-13.5.0-linux-x64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 374412460,
       "digest": "sha256:53d19a57732ee3ecfd3db2a804120a680f2de61358d474fb6f900e44963193c2",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-09-03T09:46:29Z",
       "updated_at": "2026-09-03T09:46:45Z",
       "browser_download_url": "https://github.com/flyway/flyway/releases/download/flyway-13.5.0/flyway-commandline-13.5.0-macosx-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 360106271,
       "digest": "sha256:c756d856de029ab0e3c16e59940a3565b9c64333313d31221aba260fac8c997b",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-03T09:46:19Z",
       "updated_at": "2026-09-03T09:46:28Z",
       "browser_download_url": "https://github.com/flyway/flyway/releases/download/flyway-13.5.0/flyway-commandline-13.5.0-macosx-x64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 376606899,
       "digest": "sha256:78e68dc333a05360db1eedf37caff4cc3a5657209e343f5bfcef0d4ec0c9ddc3",
-      "download_count": 119,
+      "download_count": 137,
       "created_at": "2026-09-03T09:45:27Z",
       "updated_at": "2026-09-03T09:45:44Z",
       "browser_download_url": "https://github.com/flyway/flyway/releases/download/flyway-13.5.0/flyway-commandline-13.5.0-windows-x64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 317913509,
       "digest": "sha256:5ec30849dc4ef9fc0883e50899cd5846b25aedcfe5fbca5ab6a791f901fe6ced",
-      "download_count": 135,
+      "download_count": 229,
       "created_at": "2026-09-03T09:45:14Z",
       "updated_at": "2026-09-03T09:45:25Z",
       "browser_download_url": "https://github.com/flyway/flyway/releases/download/flyway-13.5.0/flyway-commandline-13.5.0.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 317969585,
       "digest": "sha256:6d24c4256a1978ebd2c85c153fcaa2a03a600ddd6c8866f8957b21a16d6813e0",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-09-03T09:45:00Z",
       "updated_at": "2026-09-03T09:45:13Z",
       "browser_download_url": "https://github.com/flyway/flyway/releases/download/flyway-13.5.0/flyway-commandline-13.5.0.zip"
