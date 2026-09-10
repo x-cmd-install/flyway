@@ -7,7 +7,7 @@ about:
   latestVersion: "flyway-13.6.0"
   latestRelease: "flyway-13.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:11:36Z
+  collectedAt: 2026-09-10T23:35:30Z
 timeline:
   created: 2012-12-14
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 10082
+  star: 10083
   watcher: 172
   fork: 1630
   release: 310
@@ -90,7 +90,7 @@ total:
   commit: 3264
 ---
 path: /home/runner/.x-repo/github.com/flyway/flyway
-collectedAt: 2026-09-10T20:12:17Z
+collectedAt: 2026-09-10T23:36:18Z
 loc:
   Java:
     code: 50077
