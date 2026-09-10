@@ -12,7 +12,7 @@ Flyway by Redgate • Database Migrations Made Easy.
 x install flyway
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **72,823** 行代码（覆盖前 5 种语言、共 **897** 个文件）。
 
@@ -48,7 +48,7 @@ x install flyway
 
 ## 流行度
 
-- **Star**: 10,082 · **Fork**: 1,630 · **开放 issue**: 3,626 · **贡献者**: 124
+- **Star**: 10,083 · **Fork**: 1,630 · **开放 issue**: 3,626 · **贡献者**: 124
 
 ## 累计统计
 
@@ -95,4 +95,4 @@ flyway 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:12:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:37:09Z._
