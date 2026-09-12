@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 4 | 0 | 5 | 1 | 6 | 3 |
-| last60d | 2026-07-13 | 7 | 0 | 7 | 5 | 8 | 7 |
-| 90d | 2026-06-13 | 10 | 0 | 10 | 11 | 10 | 10 |
-| last180d | 2026-03-15 | 21 | 0 | 14 | 23 | 16 | 21 |
-| 360d | 2025-09-16 | 44 | 0 | 22 | 56 | 35 | 42 |
-| last720d | 2024-09-21 | 84 | 1 | 25 | 156 | 97 | 92 |
+| 30d | 2026-08-13 | 4 | 0 | 5 | 1 | 6 | 3 |
+| last60d | 2026-07-14 | 7 | 0 | 7 | 5 | 8 | 7 |
+| 90d | 2026-06-14 | 10 | 0 | 10 | 11 | 10 | 10 |
+| last180d | 2026-03-16 | 21 | 0 | 14 | 23 | 16 | 21 |
+| 360d | 2025-09-17 | 43 | 0 | 22 | 56 | 34 | 42 |
+| last720d | 2024-09-22 | 84 | 1 | 25 | 156 | 97 | 92 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:43:39Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:29:06Z._
