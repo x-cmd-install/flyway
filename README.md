@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,083 · **Forks**: 1,631 · **Open issues**: 3,626 · **Contributors**: 124
+- **Stars**: 10,084 · **Forks**: 1,630 · **Open issues**: 3,626 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 0 | 5 | 1 | 6 | 3 |
-| last60d | 2026-07-15 | 7 | 0 | 7 | 5 | 8 | 7 |
-| 90d | 2026-06-15 | 10 | 0 | 9 | 11 | 9 | 10 |
-| last180d | 2026-03-17 | 21 | 0 | 14 | 22 | 16 | 21 |
-| 360d | 2025-09-18 | 42 | 0 | 22 | 56 | 33 | 42 |
-| last720d | 2024-09-23 | 84 | 1 | 25 | 156 | 97 | 92 |
+| 30d | 2026-08-15 | 3 | 0 | 5 | 1 | 4 | 3 |
+| last60d | 2026-07-16 | 7 | 0 | 7 | 5 | 8 | 6 |
+| 90d | 2026-06-16 | 10 | 0 | 9 | 11 | 9 | 9 |
+| last180d | 2026-03-18 | 20 | 0 | 14 | 22 | 16 | 20 |
+| 360d | 2025-09-19 | 42 | 0 | 22 | 54 | 33 | 42 |
+| last720d | 2024-09-24 | 84 | 1 | 25 | 156 | 96 | 92 |
 
 ## Release assets
 
@@ -77,15 +77,6 @@ Lowest-scoring checks:
 | [flyway-commandline-13.6.0.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.6.0/flyway-commandline-13.6.0.tar.gz) | 307.9 MiB | `native/unknown` |
 | [flyway-commandline-13.6.0.zip](https://github.com/flyway/flyway/releases/download/flyway-13.6.0/flyway-commandline-13.6.0.zip) | 307.9 MiB | `other` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/flyway). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `13.6.0` | ✅ latest |
-| Nix unstable | `13.2.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `flyway` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +86,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:45:42Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:48:18Z._
