@@ -4,7 +4,7 @@
 
 Flyway by Redgate • Database Migrations Made Easy.
 
-![flyway](https://repo.x-cmd.io/flyway.svg?lang=zh)
+[![x-cmd/install — flyway Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flyway.svg?lang=zh)](https://x-cmd.com/install/flyway)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install flyway
 
 ## 流行度
 
-- **Star**: 10,092 · **Fork**: 1,631 · **开放 issue**: 3,626 · **贡献者**: 124
+- **Star**: 10,101 · **Fork**: 1,632 · **开放 issue**: 3,626 · **贡献者**: 124
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install flyway
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 0 | 7 | 1 | 2 | 4 |
-| last60d | 2026-07-20 | 8 | 0 | 8 | 4 | 7 | 7 |
-| 90d | 2026-06-20 | 10 | 0 | 11 | 10 | 8 | 10 |
-| last180d | 2026-03-22 | 21 | 0 | 16 | 22 | 16 | 21 |
-| 360d | 2025-09-23 | 43 | 0 | 24 | 53 | 32 | 43 |
-| last720d | 2024-09-28 | 83 | 1 | 27 | 156 | 96 | 91 |
+| 30d | 2026-08-21 | 4 | 0 | 7 | 1 | 2 | 4 |
+| last60d | 2026-07-22 | 7 | 0 | 8 | 3 | 6 | 7 |
+| 90d | 2026-06-22 | 10 | 0 | 11 | 10 | 8 | 10 |
+| last180d | 2026-03-24 | 21 | 0 | 16 | 22 | 16 | 21 |
+| 360d | 2025-09-25 | 43 | 0 | 24 | 51 | 31 | 43 |
+| last720d | 2024-09-30 | 83 | 1 | 27 | 156 | 96 | 91 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ flyway 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:36:15Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:55:37Z._
