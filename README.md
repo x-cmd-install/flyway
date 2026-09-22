@@ -26,7 +26,7 @@ Total: **71,858** lines of code across **897** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,101 · **Forks**: 1,632 · **Open issues**: 3,626 · **Contributors**: 124
+- **Stars**: 10,103 · **Forks**: 1,632 · **Open issues**: 3,626 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 4 | 0 | 6 | 1 | 2 | 3 |
-| last60d | 2026-07-23 | 7 | 0 | 7 | 2 | 6 | 7 |
-| 90d | 2026-06-23 | 10 | 0 | 11 | 9 | 8 | 10 |
-| last180d | 2026-03-25 | 21 | 0 | 16 | 22 | 16 | 20 |
-| 360d | 2025-09-26 | 43 | 0 | 24 | 51 | 31 | 42 |
-| last720d | 2024-10-01 | 83 | 1 | 27 | 155 | 96 | 91 |
+| 30d | 2026-08-23 | 4 | 0 | 6 | 1 | 2 | 3 |
+| last60d | 2026-07-24 | 7 | 0 | 7 | 2 | 6 | 7 |
+| 90d | 2026-06-24 | 10 | 0 | 10 | 8 | 8 | 10 |
+| last180d | 2026-03-26 | 21 | 0 | 16 | 21 | 16 | 20 |
+| 360d | 2025-09-27 | 42 | 0 | 24 | 51 | 31 | 42 |
+| last720d | 2024-10-02 | 83 | 1 | 27 | 155 | 96 | 91 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:49:47Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:45:25Z._
