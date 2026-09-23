@@ -4,7 +4,7 @@
 
 Flyway by Redgate • Database Migrations Made Easy.
 
-[![x-cmd/install — flyway Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flyway.svg)](https://x-cmd.com/install/flyway)
+[![x-cmd/install — flyway Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/flyway.svg)](https://x-cmd.com/install/flyway)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,103 · **Forks**: 1,632 · **Open issues**: 3,626 · **Contributors**: 124
+- **Stars**: 10,105 · **Forks**: 1,632 · **Open issues**: 3,627 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 188 · **Open PRs**: 38 · **Closed issues**: 3406 · **Open issues**: 220 · **Commits**: 3265
+- **Releases**: 311 · **Merged PRs**: 188 · **Open PRs**: 38 · **Closed issues**: 3406 · **Open issues**: 221 · **Commits**: 3265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 0 | 6 | 1 | 2 | 3 |
-| last60d | 2026-07-24 | 7 | 0 | 7 | 2 | 6 | 7 |
-| 90d | 2026-06-24 | 10 | 0 | 10 | 8 | 8 | 10 |
-| last180d | 2026-03-26 | 21 | 0 | 16 | 21 | 16 | 20 |
-| 360d | 2025-09-27 | 42 | 0 | 24 | 51 | 31 | 42 |
-| last720d | 2024-10-02 | 83 | 1 | 27 | 155 | 96 | 91 |
+| 30d | 2026-08-24 | 4 | 0 | 6 | 1 | 3 | 3 |
+| last60d | 2026-07-25 | 7 | 0 | 7 | 2 | 7 | 7 |
+| 90d | 2026-06-25 | 10 | 0 | 10 | 8 | 9 | 10 |
+| last180d | 2026-03-27 | 20 | 0 | 16 | 21 | 17 | 20 |
+| 360d | 2025-09-28 | 42 | 0 | 24 | 51 | 32 | 42 |
+| last720d | 2024-10-03 | 83 | 1 | 27 | 155 | 97 | 91 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:45:25Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:00:39Z._
