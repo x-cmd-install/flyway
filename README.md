@@ -14,12 +14,12 @@ x install flyway
 
 ## Code insight
 
-Total: **71,858** lines of code across **897** files in the top 5 languages.
+Total: **71,930** lines of code across **898** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 50,092 | 23,527 | 8,896 | 797 |
-| Html | 12,616 | 5 | 1,164 | 32 |
+| Java | 50,145 | 23,557 | 8,906 | 798 |
+| Html | 12,635 | 5 | 1,171 | 32 |
 | Xml | 5,245 | 164 | 477 | 57 |
 | Json | 1,853 | 0 | 0 | 1 |
 | Python | 594 | 12 | 116 | 10 |
@@ -42,40 +42,40 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `flyway-13.7.0` (2026-09-15)
-- **Last commit**: 2026-09-15
+- **Latest**: `flyway-13.8.0` (2026-09-24)
+- **Last commit**: 2026-09-24
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 10,109 · **Forks**: 1,631 · **Open issues**: 3,627 · **Contributors**: 124
+- **Stars**: 10,110 · **Forks**: 1,631 · **Open issues**: 3,627 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 188 · **Open PRs**: 38 · **Closed issues**: 3406 · **Open issues**: 221 · **Commits**: 3265
+- **Releases**: 312 · **Merged PRs**: 188 · **Open PRs**: 38 · **Closed issues**: 3406 · **Open issues**: 221 · **Commits**: 3266
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 4 | 0 | 6 | 1 | 3 | 3 |
-| last60d | 2026-07-26 | 7 | 0 | 7 | 2 | 7 | 7 |
-| 90d | 2026-06-26 | 10 | 0 | 10 | 8 | 9 | 10 |
-| last180d | 2026-03-28 | 20 | 0 | 16 | 21 | 17 | 20 |
-| 360d | 2025-09-29 | 42 | 0 | 24 | 51 | 32 | 42 |
-| last720d | 2024-10-04 | 82 | 1 | 27 | 155 | 96 | 90 |
+| 30d | 2026-08-26 | 5 | 0 | 6 | 1 | 3 | 4 |
+| last60d | 2026-07-27 | 8 | 0 | 7 | 2 | 7 | 8 |
+| 90d | 2026-06-27 | 11 | 0 | 10 | 8 | 9 | 11 |
+| last180d | 2026-03-29 | 21 | 0 | 16 | 21 | 17 | 21 |
+| 360d | 2025-09-30 | 43 | 0 | 24 | 51 | 32 | 43 |
+| last720d | 2024-10-05 | 83 | 1 | 27 | 155 | 96 | 91 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [flyway-commandline-13.7.0-linux-alpine-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.7.0/flyway-commandline-13.7.0-linux-alpine-x64.tar.gz) | 367.3 MiB | `native/unknown` |
-| [flyway-commandline-13.7.0-linux-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.7.0/flyway-commandline-13.7.0-linux-x64.tar.gz) | 368.1 MiB | `native/unknown` |
-| [flyway-commandline-13.7.0-macosx-arm64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.7.0/flyway-commandline-13.7.0-macosx-arm64.tar.gz) | 362.6 MiB | `native/darwin/arm64` |
-| [flyway-commandline-13.7.0-macosx-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.7.0/flyway-commandline-13.7.0-macosx-x64.tar.gz) | 348.9 MiB | `native/darwin/x64` |
-| [flyway-commandline-13.7.0-windows-x64.zip](https://github.com/flyway/flyway/releases/download/flyway-13.7.0/flyway-commandline-13.7.0-windows-x64.zip) | 364.5 MiB | `native/win/x64` |
-| [flyway-commandline-13.7.0.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.7.0/flyway-commandline-13.7.0.tar.gz) | 308.8 MiB | `native/unknown` |
-| [flyway-commandline-13.7.0.zip](https://github.com/flyway/flyway/releases/download/flyway-13.7.0/flyway-commandline-13.7.0.zip) | 308.8 MiB | `other` |
+| [flyway-commandline-13.8.0-linux-alpine-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.8.0/flyway-commandline-13.8.0-linux-alpine-x64.tar.gz) | 367.3 MiB | `native/unknown` |
+| [flyway-commandline-13.8.0-linux-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.8.0/flyway-commandline-13.8.0-linux-x64.tar.gz) | 368.1 MiB | `native/unknown` |
+| [flyway-commandline-13.8.0-macosx-arm64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.8.0/flyway-commandline-13.8.0-macosx-arm64.tar.gz) | 362.6 MiB | `native/darwin/arm64` |
+| [flyway-commandline-13.8.0-macosx-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.8.0/flyway-commandline-13.8.0-macosx-x64.tar.gz) | 349.0 MiB | `native/darwin/x64` |
+| [flyway-commandline-13.8.0-windows-x64.zip](https://github.com/flyway/flyway/releases/download/flyway-13.8.0/flyway-commandline-13.8.0-windows-x64.zip) | 364.6 MiB | `native/win/x64` |
+| [flyway-commandline-13.8.0.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.8.0/flyway-commandline-13.8.0.tar.gz) | 308.8 MiB | `native/unknown` |
+| [flyway-commandline-13.8.0.zip](https://github.com/flyway/flyway/releases/download/flyway-13.8.0/flyway-commandline-13.8.0.zip) | 308.8 MiB | `other` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:37:32Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:48:14Z._
