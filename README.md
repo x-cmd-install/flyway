@@ -26,12 +26,12 @@ Total: **71,930** lines of code across **898** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **SAST** (0/10) — no SAST tool detected
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,110 · **Forks**: 1,631 · **Open issues**: 3,627 · **Contributors**: 124
+- **Stars**: 10,113 · **Forks**: 1,631 · **Open issues**: 3,627 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 4 | 0 | 6 | 1 | 3 | 3 |
-| last60d | 2026-07-30 | 8 | 0 | 7 | 2 | 7 | 7 |
-| 90d | 2026-06-30 | 11 | 0 | 9 | 7 | 9 | 10 |
-| last180d | 2026-04-01 | 20 | 0 | 16 | 19 | 17 | 20 |
-| 360d | 2025-10-03 | 43 | 0 | 24 | 50 | 32 | 42 |
-| last720d | 2024-10-08 | 83 | 1 | 27 | 155 | 96 | 91 |
+| 30d | 2026-08-30 | 4 | 0 | 5 | 1 | 3 | 3 |
+| last60d | 2026-07-31 | 7 | 0 | 7 | 2 | 7 | 7 |
+| 90d | 2026-07-01 | 10 | 0 | 9 | 7 | 9 | 10 |
+| last180d | 2026-04-02 | 20 | 0 | 16 | 19 | 17 | 20 |
+| 360d | 2025-10-04 | 43 | 0 | 24 | 50 | 32 | 42 |
+| last720d | 2024-10-09 | 83 | 1 | 27 | 155 | 96 | 91 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:22:13Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:38:45Z._
