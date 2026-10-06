@@ -26,12 +26,12 @@ Total: **72,041** lines of code across **899** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **SAST** (0/10) — no SAST tool detected
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,119 · **Forks**: 1,631 · **Open issues**: 3,628 · **Contributors**: 124
+- **Stars**: 10,122 · **Forks**: 1,631 · **Open issues**: 3,630 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 314 · **Merged PRs**: 188 · **Open PRs**: 39 · **Closed issues**: 3406 · **Open issues**: 222 · **Commits**: 3268
+- **Releases**: 314 · **Merged PRs**: 188 · **Open PRs**: 39 · **Closed issues**: 3406 · **Open issues**: 224 · **Commits**: 3268
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 5 | 0 | 5 | 1 | 2 | 4 |
-| last60d | 2026-08-06 | 9 | 0 | 8 | 1 | 8 | 8 |
-| 90d | 2026-07-07 | 12 | 0 | 10 | 6 | 10 | 11 |
-| last180d | 2026-04-08 | 22 | 0 | 16 | 19 | 18 | 22 |
-| 360d | 2025-10-10 | 43 | 0 | 25 | 46 | 32 | 42 |
-| last720d | 2024-10-15 | 85 | 1 | 28 | 151 | 97 | 93 |
+| 30d | 2026-09-06 | 5 | 0 | 5 | 1 | 4 | 4 |
+| last60d | 2026-08-07 | 8 | 0 | 8 | 1 | 10 | 8 |
+| 90d | 2026-07-08 | 12 | 0 | 10 | 6 | 12 | 11 |
+| last180d | 2026-04-09 | 22 | 0 | 16 | 19 | 20 | 22 |
+| 360d | 2025-10-11 | 43 | 0 | 25 | 46 | 34 | 42 |
+| last720d | 2024-10-16 | 85 | 1 | 28 | 151 | 99 | 93 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:28:31Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:12:51Z._
