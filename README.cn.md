@@ -14,13 +14,13 @@ x install flyway
 
 ## 代码洞察
 
-合计: **72,041** 行代码（覆盖前 5 种语言、共 **899** 个文件）。
+合计: **73,254** 行代码（覆盖前 5 种语言、共 **901** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Java | 50,231 | 23,582 | 8,917 | 799 |
-| Html | 12,660 | 5 | 1,181 | 32 |
-| Xml | 5,245 | 164 | 477 | 57 |
+| Java | 50,344 | 23,634 | 8,933 | 801 |
+| Html | 13,750 | 4 | 116 | 32 |
+| Xml | 5,255 | 164 | 477 | 57 |
 | Json | 1,853 | 0 | 0 | 1 |
 | Python | 594 | 12 | 116 | 10 |
 
@@ -42,40 +42,40 @@ x install flyway
 
 ## 发布
 
-- **最新版本**: `flyway-13.9.0` (2026-10-01)
-- **最近提交**: 2026-10-01
+- **最新版本**: `flyway-13.10.0` (2026-10-08)
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 10,126 · **Fork**: 1,633 · **开放 issue**: 3,630 · **贡献者**: 124
+- **Star**: 10,131 · **Fork**: 1,634 · **开放 issue**: 3,631 · **贡献者**: 124
 
 ## 累计统计
 
-- **发布数**: 314 · **已合并 PR**: 188 · **开放 PR**: 39 · **已关闭 issue**: 3406 · **开放 issue**: 224 · **提交数**: 3268
+- **发布数**: 315 · **已合并 PR**: 188 · **开放 PR**: 40 · **已关闭 issue**: 3406 · **开放 issue**: 225 · **提交数**: 3269
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 5 | 0 | 4 | 0 | 4 | 4 |
-| last60d | 2026-08-09 | 8 | 0 | 8 | 1 | 10 | 8 |
-| 90d | 2026-07-10 | 11 | 0 | 10 | 6 | 12 | 11 |
-| last180d | 2026-04-11 | 22 | 0 | 16 | 19 | 20 | 22 |
-| 360d | 2025-10-13 | 43 | 0 | 25 | 45 | 34 | 42 |
-| last720d | 2024-10-18 | 84 | 1 | 28 | 151 | 99 | 92 |
+| 30d | 2026-09-09 | 6 | 0 | 5 | 0 | 5 | 5 |
+| last60d | 2026-08-10 | 9 | 0 | 9 | 1 | 11 | 9 |
+| 90d | 2026-07-11 | 12 | 0 | 11 | 6 | 13 | 12 |
+| last180d | 2026-04-12 | 23 | 0 | 17 | 19 | 21 | 23 |
+| 360d | 2025-10-14 | 44 | 0 | 25 | 45 | 35 | 43 |
+| last720d | 2024-10-19 | 85 | 1 | 29 | 151 | 99 | 93 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [flyway-commandline-13.9.0-linux-alpine-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.9.0/flyway-commandline-13.9.0-linux-alpine-x64.tar.gz) | 367.3 MiB | `native/unknown` |
-| [flyway-commandline-13.9.0-linux-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.9.0/flyway-commandline-13.9.0-linux-x64.tar.gz) | 368.1 MiB | `native/unknown` |
-| [flyway-commandline-13.9.0-macosx-arm64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.9.0/flyway-commandline-13.9.0-macosx-arm64.tar.gz) | 362.6 MiB | `native/darwin/arm64` |
-| [flyway-commandline-13.9.0-macosx-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.9.0/flyway-commandline-13.9.0-macosx-x64.tar.gz) | 349.0 MiB | `native/darwin/x64` |
-| [flyway-commandline-13.9.0-windows-x64.zip](https://github.com/flyway/flyway/releases/download/flyway-13.9.0/flyway-commandline-13.9.0-windows-x64.zip) | 364.6 MiB | `native/win/x64` |
-| [flyway-commandline-13.9.0.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.9.0/flyway-commandline-13.9.0.tar.gz) | 308.8 MiB | `native/unknown` |
-| [flyway-commandline-13.9.0.zip](https://github.com/flyway/flyway/releases/download/flyway-13.9.0/flyway-commandline-13.9.0.zip) | 308.8 MiB | `other` |
+| [flyway-commandline-13.10.0-linux-alpine-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.10.0/flyway-commandline-13.10.0-linux-alpine-x64.tar.gz) | 367.3 MiB | `native/unknown` |
+| [flyway-commandline-13.10.0-linux-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.10.0/flyway-commandline-13.10.0-linux-x64.tar.gz) | 368.1 MiB | `native/unknown` |
+| [flyway-commandline-13.10.0-macosx-arm64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.10.0/flyway-commandline-13.10.0-macosx-arm64.tar.gz) | 362.6 MiB | `native/darwin/arm64` |
+| [flyway-commandline-13.10.0-macosx-x64.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.10.0/flyway-commandline-13.10.0-macosx-x64.tar.gz) | 349.0 MiB | `native/darwin/x64` |
+| [flyway-commandline-13.10.0-windows-x64.zip](https://github.com/flyway/flyway/releases/download/flyway-13.10.0/flyway-commandline-13.10.0-windows-x64.zip) | 364.6 MiB | `native/win/x64` |
+| [flyway-commandline-13.10.0.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.10.0/flyway-commandline-13.10.0.tar.gz) | 308.8 MiB | `native/unknown` |
+| [flyway-commandline-13.10.0.zip](https://github.com/flyway/flyway/releases/download/flyway-13.10.0/flyway-commandline-13.10.0.zip) | 308.8 MiB | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ flyway 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T05:58:02Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T05:59:34Z._
