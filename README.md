@@ -14,13 +14,13 @@ x install flyway
 
 ## Code insight
 
-Total: **72,327** lines of code across **902** files in the top 5 languages.
+Total: **72,463** lines of code across **902** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 50,445 | 23,664 | 8,952 | 802 |
-| Html | 12,722 | 5 | 1,190 | 32 |
-| Xml | 5,255 | 164 | 481 | 57 |
+| Java | 50,515 | 23,676 | 8,962 | 802 |
+| Html | 12,748 | 5 | 1,197 | 32 |
+| Xml | 5,282 | 164 | 481 | 57 |
 | Json | 1,853 | 0 | 0 | 1 |
 | Python | 594 | 12 | 116 | 10 |
 
@@ -30,8 +30,8 @@ Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **SAST** (0/10) — no SAST tool detected
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `flyway-13.10.3` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 10,159 · **Forks**: 1,632 · **Open issues**: 3,631 · **Contributors**: 124
+- **Stars**: 10,162 · **Forks**: 1,633 · **Open issues**: 3,631 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 316 · **Merged PRs**: 188 · **Open PRs**: 40 · **Closed issues**: 3410 · **Open issues**: 221 · **Commits**: 3270
+- **Releases**: 316 · **Merged PRs**: 188 · **Open PRs**: 41 · **Closed issues**: 3410 · **Open issues**: 221 · **Commits**: 3271
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 5 | 0 | 2 | 3 | 2 | 4 |
-| last60d | 2026-08-22 | 9 | 0 | 8 | 4 | 4 | 9 |
-| 90d | 2026-07-23 | 12 | 0 | 9 | 5 | 8 | 12 |
-| last180d | 2026-04-24 | 23 | 0 | 16 | 20 | 17 | 22 |
-| 360d | 2025-10-26 | 43 | 0 | 25 | 48 | 30 | 43 |
-| last720d | 2024-10-31 | 85 | 1 | 29 | 150 | 94 | 93 |
+| 30d | 2026-09-22 | 5 | 0 | 3 | 3 | 2 | 5 |
+| last60d | 2026-08-23 | 9 | 0 | 9 | 4 | 4 | 10 |
+| 90d | 2026-07-24 | 12 | 0 | 10 | 5 | 8 | 13 |
+| last180d | 2026-04-25 | 23 | 0 | 17 | 20 | 17 | 23 |
+| 360d | 2025-10-27 | 43 | 0 | 26 | 48 | 30 | 44 |
+| last720d | 2024-11-01 | 85 | 1 | 30 | 150 | 94 | 94 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:34:22Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:32:17Z._
