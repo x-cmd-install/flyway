@@ -30,8 +30,8 @@ x install flyway
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **SAST** (0/10) — no SAST tool detected
 
 ## 源代码
@@ -48,7 +48,7 @@ x install flyway
 
 ## 流行度
 
-- **Star**: 10,169 · **Fork**: 1,633 · **开放 issue**: 3,633 · **贡献者**: 124
+- **Star**: 10,172 · **Fork**: 1,634 · **开放 issue**: 3,633 · **贡献者**: 124
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install flyway
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 5 | 0 | 3 | 4 | 2 | 3 |
-| last60d | 2026-08-27 | 9 | 0 | 9 | 7 | 3 | 9 |
-| 90d | 2026-07-28 | 13 | 0 | 10 | 8 | 7 | 12 |
-| last180d | 2026-04-29 | 23 | 0 | 16 | 22 | 15 | 23 |
-| 360d | 2025-10-31 | 44 | 0 | 26 | 50 | 28 | 44 |
-| last720d | 2024-11-05 | 86 | 1 | 30 | 149 | 93 | 94 |
+| 30d | 2026-09-27 | 5 | 0 | 3 | 4 | 2 | 3 |
+| last60d | 2026-08-28 | 9 | 0 | 9 | 7 | 3 | 9 |
+| 90d | 2026-07-29 | 13 | 0 | 10 | 8 | 7 | 12 |
+| last180d | 2026-04-30 | 23 | 0 | 16 | 22 | 14 | 23 |
+| 360d | 2025-11-01 | 44 | 0 | 26 | 50 | 28 | 44 |
+| last720d | 2024-11-06 | 86 | 1 | 30 | 149 | 93 | 94 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ flyway 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:35:03Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T04:53:17Z._
