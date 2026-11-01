@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,179 · **Forks**: 1,634 · **Open issues**: 3,633 · **Contributors**: 124
+- **Stars**: 10,181 · **Forks**: 1,633 · **Open issues**: 3,633 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 5 | 0 | 3 | 3 | 2 | 4 |
-| last60d | 2026-09-01 | 10 | 0 | 8 | 7 | 3 | 10 |
-| 90d | 2026-08-02 | 13 | 0 | 10 | 9 | 6 | 13 |
-| last180d | 2026-05-04 | 24 | 0 | 16 | 23 | 13 | 24 |
-| 360d | 2025-11-05 | 45 | 0 | 26 | 51 | 25 | 45 |
-| last720d | 2024-11-10 | 86 | 1 | 30 | 153 | 88 | 94 |
+| 30d | 2026-10-02 | 4 | 0 | 3 | 3 | 2 | 4 |
+| last60d | 2026-09-02 | 10 | 0 | 8 | 7 | 2 | 10 |
+| 90d | 2026-08-03 | 13 | 0 | 10 | 9 | 6 | 13 |
+| last180d | 2026-05-05 | 24 | 0 | 16 | 22 | 13 | 24 |
+| 360d | 2025-11-06 | 45 | 0 | 26 | 51 | 25 | 45 |
+| last720d | 2024-11-11 | 86 | 1 | 30 | 152 | 88 | 94 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/flyway). **2** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/flyway). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:25:46Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:54:25Z._
