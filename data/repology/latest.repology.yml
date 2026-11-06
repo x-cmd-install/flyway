@@ -1,3 +1,25 @@
+- repo: nix_stable_25_11
+  srcname: flyway
+  visiblename: flyway
+  version: 11.14.1
+  origversion: null
+  status: outdated
+  summary: Evolve your Database Schema easily and reliably across all your instances
+  maintainers:
+    - roger.qiu@matrix.ai
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: flyway
+  visiblename: flyway
+  version: 11.7.0
+  origversion: null
+  status: outdated
+  summary: Evolve your Database Schema easily and reliably across all your instances
+  maintainers:
+    - roger.qiu@matrix.ai
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: flyway
   binname: flyway
@@ -20,7 +42,7 @@
 - repo: homebrew
   srcname: flyway
   visiblename: flyway
-  version: 13.12.0
+  version: 13.12.1
   origversion: null
   status: newest
   summary: Database version control to control migrations
@@ -61,28 +83,6 @@
     - roger.qiu@matrix.ai
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: flyway
-  visiblename: flyway
-  version: 11.7.0
-  origversion: null
-  status: outdated
-  summary: Evolve your Database Schema easily and reliably across all your instances
-  maintainers:
-    - roger.qiu@matrix.ai
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: flyway
-  visiblename: flyway
-  version: 11.14.1
-  origversion: null
-  status: outdated
-  summary: Evolve your Database Schema easily and reliably across all your instances
-  maintainers:
-    - roger.qiu@matrix.ai
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: flyway
   visiblename: flyway
@@ -109,7 +109,7 @@
   subrepo: main
   binname: flyway
   visiblename: flyway
-  version: 13.12.0
+  version: 13.12.1
   origversion: null
   status: newest
   licenses:
@@ -119,7 +119,7 @@
   visiblename: Flyway
   version: 13.12.0
   origversion: null
-  status: newest
+  status: outdated
   summary: database migration tool
   licenses:
     - Apache Software License 2.0
