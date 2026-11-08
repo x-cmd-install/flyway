@@ -1,25 +1,10 @@
-- repo: nix_stable_25_11
+- repo: homebrew
   srcname: flyway
   visiblename: flyway
-  version: 11.14.1
+  version: 13.12.1
   origversion: null
-  status: outdated
-  summary: Evolve your Database Schema easily and reliably across all your instances
-  maintainers:
-    - roger.qiu@matrix.ai
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: flyway
-  visiblename: flyway
-  version: 11.7.0
-  origversion: null
-  status: outdated
-  summary: Evolve your Database Schema easily and reliably across all your instances
-  maintainers:
-    - roger.qiu@matrix.ai
-  licenses:
-    - Apache-2.0
+  status: newest
+  summary: Database version control to control migrations
 - repo: aur
   srcname: flyway
   binname: flyway
@@ -39,13 +24,6 @@
   origversion: null
   status: outdated
   summary: Flyway is database-independent library for tracking, managing and applying database changes
-- repo: homebrew
-  srcname: flyway
-  visiblename: flyway
-  version: 13.12.1
-  origversion: null
-  status: newest
-  summary: Database version control to control migrations
 - repo: macports
   srcname: java/flyway
   binname: flyway
@@ -76,6 +54,28 @@
   srcname: flyway
   visiblename: flyway
   version: 9.22.3
+  origversion: null
+  status: outdated
+  summary: Evolve your Database Schema easily and reliably across all your instances
+  maintainers:
+    - roger.qiu@matrix.ai
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: flyway
+  visiblename: flyway
+  version: 11.7.0
+  origversion: null
+  status: outdated
+  summary: Evolve your Database Schema easily and reliably across all your instances
+  maintainers:
+    - roger.qiu@matrix.ai
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: flyway
+  visiblename: flyway
+  version: 11.14.1
   origversion: null
   status: outdated
   summary: Evolve your Database Schema easily and reliably across all your instances
@@ -117,9 +117,9 @@
 - repo: wikidata
   srcname: Q21113187
   visiblename: Flyway
-  version: 13.12.0
+  version: 13.12.1
   origversion: null
-  status: outdated
+  status: newest
   summary: database migration tool
   licenses:
     - Apache Software License 2.0
