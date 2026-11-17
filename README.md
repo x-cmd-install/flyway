@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,202 · **Forks**: 1,639 · **Open issues**: 3,640 · **Contributors**: 124
+- **Stars**: 10,203 · **Forks**: 1,638 · **Open issues**: 3,640 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 0 | 4 | 2 | 7 | 3 |
-| last60d | 2026-09-17 | 9 | 0 | 6 | 7 | 7 | 9 |
-| 90d | 2026-08-18 | 13 | 0 | 13 | 9 | 9 | 13 |
-| last180d | 2026-05-20 | 24 | 0 | 18 | 21 | 17 | 23 |
-| 360d | 2025-11-21 | 44 | 0 | 28 | 49 | 27 | 43 |
-| last720d | 2024-11-26 | 86 | 1 | 33 | 149 | 93 | 94 |
+| 30d | 2026-10-18 | 4 | 0 | 4 | 2 | 7 | 3 |
+| last60d | 2026-09-18 | 9 | 0 | 6 | 7 | 7 | 9 |
+| 90d | 2026-08-19 | 13 | 0 | 13 | 9 | 8 | 13 |
+| last180d | 2026-05-21 | 24 | 0 | 18 | 21 | 17 | 23 |
+| 360d | 2025-11-22 | 44 | 0 | 28 | 49 | 27 | 43 |
+| last720d | 2024-11-27 | 86 | 1 | 33 | 148 | 93 | 94 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:19:36Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:50:09Z._
