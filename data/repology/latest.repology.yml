@@ -20,7 +20,7 @@
 - repo: homebrew
   srcname: flyway
   visiblename: flyway
-  version: 13.12.2
+  version: 13.13.0
   origversion: null
   status: newest
   summary: Database version control to control migrations
@@ -109,7 +109,7 @@
   subrepo: main
   binname: flyway
   visiblename: flyway
-  version: 13.12.2
+  version: 13.13.0
   origversion: null
   status: newest
   licenses:
@@ -119,7 +119,7 @@
   visiblename: Flyway
   version: 13.12.2
   origversion: null
-  status: newest
+  status: outdated
   summary: database migration tool
   licenses:
     - Apache Software License 2.0
