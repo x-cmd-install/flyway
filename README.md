@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 321 · **Merged PRs**: 188 · **Open PRs**: 41 · **Closed issues**: 3420 · **Open issues**: 222 · **Commits**: 3275
+- **Releases**: 321 · **Merged PRs**: 188 · **Open PRs**: 42 · **Closed issues**: 3420 · **Open issues**: 222 · **Commits**: 3275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 0 | 1 | 3 | 6 | 4 |
-| last60d | 2026-09-23 | 10 | 0 | 4 | 7 | 8 | 10 |
-| 90d | 2026-08-24 | 14 | 0 | 10 | 10 | 9 | 14 |
-| last180d | 2026-05-26 | 24 | 0 | 16 | 22 | 17 | 24 |
-| 360d | 2025-11-27 | 44 | 0 | 26 | 50 | 28 | 44 |
-| last720d | 2024-12-02 | 87 | 1 | 31 | 148 | 94 | 95 |
+| 30d | 2026-10-24 | 4 | 0 | 2 | 3 | 6 | 4 |
+| last60d | 2026-09-24 | 10 | 0 | 5 | 7 | 8 | 8 |
+| 90d | 2026-08-25 | 14 | 0 | 11 | 10 | 9 | 13 |
+| last180d | 2026-05-27 | 24 | 0 | 17 | 22 | 17 | 23 |
+| 360d | 2025-11-28 | 43 | 0 | 27 | 49 | 28 | 43 |
+| last720d | 2024-12-03 | 87 | 1 | 32 | 148 | 94 | 95 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for flyway lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:40:22Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:35:36Z._
