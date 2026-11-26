@@ -30,8 +30,8 @@ x install flyway
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **SAST** (0/10) — no SAST tool detected
 
 ## 源代码
@@ -48,7 +48,7 @@ x install flyway
 
 ## 流行度
 
-- **Star**: 10,219 · **Fork**: 1,638 · **开放 issue**: 3,644 · **贡献者**: 123
+- **Star**: 10,220 · **Fork**: 1,637 · **开放 issue**: 3,644 · **贡献者**: 123
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install flyway
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 0 | 2 | 3 | 8 | 4 |
-| last60d | 2026-09-26 | 9 | 0 | 5 | 7 | 10 | 8 |
-| 90d | 2026-08-27 | 13 | 0 | 11 | 10 | 11 | 13 |
-| last180d | 2026-05-29 | 24 | 0 | 17 | 22 | 19 | 23 |
-| 360d | 2025-11-30 | 43 | 0 | 26 | 49 | 30 | 43 |
-| last720d | 2024-12-05 | 86 | 1 | 32 | 147 | 96 | 94 |
+| 30d | 2026-10-27 | 4 | 0 | 2 | 3 | 8 | 0 |
+| last60d | 2026-09-27 | 9 | 0 | 5 | 7 | 10 | 0 |
+| 90d | 2026-08-28 | 13 | 0 | 11 | 10 | 11 | 0 |
+| last180d | 2026-05-30 | 23 | 0 | 17 | 22 | 19 | 0 |
+| 360d | 2025-12-01 | 43 | 0 | 26 | 49 | 30 | 0 |
+| last720d | 2024-12-06 | 86 | 1 | 32 | 147 | 96 | 94 |
 
 ## Release 资产
 
@@ -77,6 +77,15 @@ x install flyway
 | [flyway-commandline-13.13.0.tar.gz](https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0.tar.gz) | 300.4 MiB | `native/unknown` |
 | [flyway-commandline-13.13.0.zip](https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0.zip) | 300.4 MiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/flyway) 上共有 **12** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `13.13.0` | ✅ latest |
+| Nix unstable | `13.3.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 flyway 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `flyway` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -86,4 +95,4 @@ flyway 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:43:13Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:08:41Z._
