@@ -2,9 +2,9 @@
   srcname: flyway
   binname: flyway
   visiblename: flyway
-  version: 13.7.0
-  origversion: 13.7.0-1
-  status: outdated
+  version: 13.13.0
+  origversion: 13.13.0-1
+  status: newest
   summary: Database migration utility written Java, supporting a wide range of databases
   maintainers:
     - minus@aur
